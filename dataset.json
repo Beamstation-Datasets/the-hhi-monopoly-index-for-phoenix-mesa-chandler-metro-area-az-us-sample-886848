@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Phoenix-Mesa-Chandler Metro Area, AZ, US",
+  "export_job_id": "bf410eca-3445-495e-8171-701cb7d41d0d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 886848,
+  "location_name": "Phoenix-Mesa-Chandler, AZ",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-phoenix-mesa-chandler-metro-area-az-us-sample-886848",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/886848/beamstation_886848_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_pct": 7.51,
+  "sample_records": 28,
+  "sample_sha256": "6abf6a103af7c8bf7d5151d64f6393aa43b0346b22bab67166d57378250082cc",
+  "sample_size_bytes": 135075,
+  "total_records": 373,
+  "updated_at": "2026-04-08T00:33:06.796489+00:00"
+}

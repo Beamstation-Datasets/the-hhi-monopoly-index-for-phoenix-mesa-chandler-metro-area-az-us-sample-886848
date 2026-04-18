@@ -9,9 +9,9 @@
 | Dataset ID | `886848` |
 | Location | Phoenix-Mesa-Chandler, AZ |
 | Category | Restaurants |
-| Full dataset size | 373 records |
-| Free sample size | 28 records (7.51%) |
-| Last export | 2026-04-08T00:33:06.796489+00:00 |
+| Full dataset size | 288 records |
+| Free sample size | 28 records (9.72%) |
+| Last export | 2026-04-15T06:17:30.561098+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-phoenix-mesa-chandler-metro-area-az-us-sample-886848/releases/download/sample-latest/beamstation_886848_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv) |
 
 ## What is in this sample

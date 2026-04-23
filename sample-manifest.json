@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e575df1f-41b0-478c-ae5d-e42a126e46a6",
+  "export_job_id": "e9a798b5-8158-48b9-aa72-e034b51ed804",
   "id_short": 886848,
-  "published_at": "2026-04-18T20:00:05Z",
+  "published_at": "2026-04-23T07:28:39Z",
   "repo_name": "the-hhi-monopoly-index-for-phoenix-mesa-chandler-metro-area-az-us-sample-886848",
   "sample_asset_name": "beamstation_886848_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/886848/beamstation_886848_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "6abf6a103af7c8bf7d5151d64f6393aa43b0346b22bab67166d57378250082cc",
-  "sample_size_bytes": 135075,
-  "total_records": 288
+  "sample_records": 23,
+  "sample_sha256": "caf4ec0ed56ac120e0f111de29ef4f923f38b2ea3d854aa8ae4be30be70f132e",
+  "sample_size_bytes": 114439,
+  "total_records": 230
 }

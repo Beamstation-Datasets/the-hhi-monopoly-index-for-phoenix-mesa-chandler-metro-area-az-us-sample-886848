@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Phoenix-Mesa-Chandler Metro Area, AZ, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 29 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `886848` |
 | Location | Phoenix-Mesa-Chandler, AZ |
 | Category | Restaurants |
-| Full dataset size | 230 records |
-| Free sample size | 23 records (10.0%) |
-| Last export | 2026-04-22T12:13:15.535454+00:00 |
+| Full dataset size | 296 records |
+| Free sample size | 29 records (9.8%) |
+| Last export | 2026-04-29T13:07:31.116326+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-phoenix-mesa-chandler-metro-area-az-us-sample-886848/releases/download/sample-latest/beamstation_886848_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv) |
 
 ## What is in this sample
